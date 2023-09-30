@@ -409,7 +409,6 @@ FitMVNMiss <- function(
 #' @param maxit Maximum number of EM iterations.
 #' @param eps Minimum acceptable increment in the EM objective.
 #' @param report Report fitting progress?
-#' @importFrom stats complete.cases
 #' @return An object of class \code{mvn}.
 
 FitMVN <- function(

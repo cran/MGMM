@@ -1,7 +1,7 @@
 Package: MGMM
 Title: Missingness Aware Gaussian Mixture Models
-Date: 2023-08-08
-Version: 1.0.1
+Date: 2023-09-30
+Version: 1.0.1.1
 Authors@R: 
     person(given = "Zachary",
            family = "McCaw",
@@ -17,11 +17,11 @@ LinkingTo: Rcpp, RcppArmadillo
 Imports: cluster, methods, mvnfast, plyr, Rcpp (>= 1.0.3), stats
 Suggests: testthat (>= 3.0.0), knitr, rmarkdown, withr
 VignetteBuilder: knitr
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.3
 Config/testthat/edition: 3
 NeedsCompilation: yes
-Packaged: 2023-08-08 13:11:45 UTC; zmccaw
+Packaged: 2023-09-30 15:23:08 UTC; zmccaw
 Author: Zachary McCaw [aut, cre] (<https://orcid.org/0000-0002-2006-9828>)
 Maintainer: Zachary McCaw <zmccaw@alumni.harvard.edu>
 Repository: CRAN
-Date/Publication: 2023-08-08 13:50:05 UTC
+Date/Publication: 2023-09-30 15:42:38 UTC
